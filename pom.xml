@@ -81,7 +81,7 @@
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-core</artifactId>
             <type>jar</type>
-            <version>5.0.4.RELEASE</version>
+            <version>5.5.7</version>
         </dependency>
     </dependencies>
 
